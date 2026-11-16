@@ -28,7 +28,7 @@ after release.
 <img src="https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-0b1220?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-0b1220?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0b1220?style=flat-square&logo=cplusplus&logoColor=659AD2" alt="C++"/>
 <img src="https://img.shields.io/badge/Ruby-0b1220?style=flat-square&logo=ruby&logoColor=CC342D" alt="Ruby"/>
 </td></tr>
 <tr><td><b>LLM &amp; AI</b></td><td>
@@ -60,8 +60,8 @@ after release.
 <img src="https://img.shields.io/badge/BigQuery-0b1220?style=flat-square&logo=googlebigquery&logoColor=669DF6" alt="BigQuery"/>
 <img src="https://img.shields.io/badge/Redis-0b1220?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis"/>
 <img src="https://img.shields.io/badge/Kafka-0b1220?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-0b1220?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=7FA8E8" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-0b1220?style=flat-square&logo=mysql&logoColor=7FB3D5" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Firestore-0b1220?style=flat-square&logo=firebase&logoColor=DD2C00" alt="Firestore"/>
 <img src="https://img.shields.io/badge/DynamoDB-0b1220?style=flat-square" alt="DynamoDB"/>
 </td></tr>
