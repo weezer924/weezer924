@@ -26,27 +26,53 @@ after release.
 <table>
 <tr><td><b>Languages</b></td><td>
 <img src="https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-0b1220?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0b1220?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++"/>
+<img src="https://img.shields.io/badge/Ruby-0b1220?style=flat-square&logo=ruby&logoColor=CC342D" alt="Ruby"/>
 </td></tr>
-<tr><td><b>LLM</b></td><td>
+<tr><td><b>LLM &amp; AI</b></td><td>
 <img src="https://img.shields.io/badge/OpenAI_API-0b1220?style=flat-square" alt="OpenAI API"/>
 <img src="https://img.shields.io/badge/Claude_API-0b1220?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude API"/>
+<img src="https://img.shields.io/badge/Claude_Code-0b1220?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Sarashina_API-0b1220?style=flat-square" alt="Sarashina API"/>
+<img src="https://img.shields.io/badge/Google_Vision_API-0b1220?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Vision API"/>
+<img src="https://img.shields.io/badge/Speech--to--Text_API-0b1220?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Speech-to-Text API"/>
+<img src="https://img.shields.io/badge/AWS_Rekognition-0b1220?style=flat-square" alt="AWS Rekognition"/>
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://img.shields.io/badge/Node.js-0b1220?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-0b1220?style=flat-square&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/FastAPI-0b1220?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Flask-0b1220?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/Pydantic-0b1220?style=flat-square&logo=pydantic&logoColor=E92063" alt="Pydantic"/>
 <img src="https://img.shields.io/badge/pytest-0b1220?style=flat-square&logo=pytest&logoColor=0A9EDC" alt="pytest"/>
+<img src="https://img.shields.io/badge/Ruby_on_Rails-0b1220?style=flat-square&logo=rubyonrails&logoColor=D30001" alt="Ruby on Rails"/>
 </td></tr>
-<tr><td><b>Web</b></td><td>
+<tr><td><b>Frontend</b></td><td>
 <img src="https://img.shields.io/badge/Angular-0b1220?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular"/>
+<img src="https://img.shields.io/badge/React-0b1220?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-0b1220?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Node.js-0b1220?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Vue.js-0b1220?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
 </td></tr>
-<tr><td><b>Data & infra</b></td><td>
+<tr><td><b>Data</b></td><td>
 <img src="https://img.shields.io/badge/MongoDB-0b1220?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/BigQuery-0b1220?style=flat-square&logo=googlebigquery&logoColor=669DF6" alt="BigQuery"/>
 <img src="https://img.shields.io/badge/Redis-0b1220?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis"/>
+<img src="https://img.shields.io/badge/Kafka-0b1220?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-0b1220?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Firestore-0b1220?style=flat-square&logo=firebase&logoColor=DD2C00" alt="Firestore"/>
+<img src="https://img.shields.io/badge/DynamoDB-0b1220?style=flat-square" alt="DynamoDB"/>
+</td></tr>
+<tr><td><b>Cloud &amp; ops</b></td><td>
 <img src="https://img.shields.io/badge/AWS-0b1220?style=flat-square" alt="AWS"/>
+<img src="https://img.shields.io/badge/Google_Cloud-0b1220?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Firebase-0b1220?style=flat-square&logo=firebase&logoColor=DD2C00" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Terraform-0b1220?style=flat-square&logo=terraform&logoColor=844FBA" alt="Terraform"/>
 <img src="https://img.shields.io/badge/Docker-0b1220?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/CircleCI-0b1220?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/>
+<img src="https://img.shields.io/badge/Git-0b1220?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
 </td></tr>
 </table>
 
